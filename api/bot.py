@@ -39,4 +39,5 @@ async def main():
     await dp.start_polling(bot)
 
 
+print("hello")
 aio.run(main())
